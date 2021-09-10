@@ -1,0 +1,34 @@
+.container {
+    padding: 25px 50px;
+  }
+
+img {
+    border-radius: 8px;
+    padding: 5px;
+}
+
+ .generated-content
+  {
+      margin: 20px 0;
+      padding: 20px;
+      background-color: #f7f7f7;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+  }
+  
+.button {
+    background-color: maroon;
+    border: none;
+}
+.button:hover {
+    background-color: grey; 
+    color: white;
+  }
+
+  a {
+      color:maroon;
+  }
+  a:hover{
+      color: grey;
+  }
+
